@@ -203,8 +203,7 @@ header {
   }
   
   .article {
-    flex: 1 1 48%;
-    box-sizing: border-box;
+    width: 44%;
   }
   
 }
